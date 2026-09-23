@@ -1,0 +1,4 @@
+# Exécutable produit par make
+/2048
+*.o
+.DS_Store
